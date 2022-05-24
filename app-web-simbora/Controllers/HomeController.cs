@@ -1,4 +1,4 @@
-﻿using app_web_simbora.Models;
+﻿using appwebsimbora.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
